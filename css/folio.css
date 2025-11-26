@@ -1,0 +1,276 @@
+*{
+  margin: 0px;
+
+}  
+
+  
+  
+  .premierbouton{
+    background-color: black;
+    color: aliceblue
+}
+.entete{
+display: flex;
+    background-color: rgb(233, 247, 218);
+    display: flexbox;
+    justify-content: space-between;
+    align-items: center;
+}
+.les_bares_de_recherche{
+    display: flex;
+    
+}
+.lesbares_du_millieu{
+padding:12PX ;
+}
+.couleur_de_creative{
+    color: blue;
+}
+
+
+.couleur_du_nom{
+    color: rgb(10, 10, 153);
+    font-weight: bold;
+}
+.cv_et_realisation{
+    display: flex;
+   
+}
+.lecerclerouge{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: -20%;
+
+}
+.lepetitexteetlenom{
+    margin-left: 20%;
+}
+.luiseul{
+    padding: 10px;
+}
+.CVREAL{
+    padding: 30PX;
+}
+.classepremierepage{
+  align-content: center;
+  align-items: center;
+}
+.ma_photo{
+  padding: 60px; 
+  right: 60px;
+  text-align: center;
+}
+.deuxieme_page{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(250, 235, 215);
+    width: 100%;
+    text-align: center;
+
+margin-left: auto; margin-right: auto;   
+}
+.moncv{
+    background-color: black;
+    color: aliceblue;
+}
+.LE3ieme{
+    background-color: black;
+    color: aliceblue;
+   text-align: center;
+   align-items: center;
+   align-content: center;
+   
+   
+}
+.les50etautres{
+    display: flex;
+    text-align: center;
+    margin: auto ;
+    width: 800px;
+    margin-left: 400PX;padding: auto;
+}
+.espacedes50{
+    padding: 50PX;
+    
+}
+.lescouleursdesanne50{
+    color: rgb(224, 179, 141);
+}
+.paragraphe{
+    text-align: center;align-items: center;
+  }
+  .les50etautres4{
+    display: flex;
+    gap: 100px;
+    text-align: center;
+
+  }
+  .lemilieuduservice{
+    align-items: center;
+    text-align: center;
+  }
+  .lemilieuduservice{
+     align-content: center;
+
+  }
+  #desinetautres{
+    justify-content: space-between;
+  }
+  .dernierboutonenvoyer{
+    background-color: black;
+    color: aliceblue;
+    width: 150px;
+    height: 50PX;
+    justify-content: flex-end;
+  
+  }
+  .LEDISPLAYDESINPUT{
+    display: grid;  
+    gap: 5%;
+
+  }
+  .avandernier{
+    display: flex;
+     align-items: center; 
+     justify-content: space-between;
+     gap: 100PX;
+     background-color: blueviolet;
+     padding: 10%;
+    
+  }
+  .cotétémoignage{
+    display: flex;
+  }
+  .programme_témoingnage{
+    align-items: center;flex-direction: column;display: flex;
+    gap: 150PX;
+
+    
+  }
+  .les3_way{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+
+
+  }
+  .auteur{
+    display: flex;
+    align-items: center; 
+    /* la precédente à aidé a mettre l'image et l'ecriture bien en forme */
+    justify-content: center;
+
+
+  }
+  .imageauteur{
+    border-radius: 100%;
+  }
+  .couleur_auteur{
+    font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;   }
+#Témoignage{
+  display: flex;
+  flex-direction: column;
+  gap: 40PX;
+  background-color: rgb(157, 131, 182);
+  padding: 10%;
+}
+.letextedumilieuu{
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+.le_dernier_input{
+  width: 400PX;
+  height: 100px;
+}
+.lesautrescases{
+  height: 30PX;
+}
+.les4boutons{
+  display: flex;
+  flex-direction: cOlumn;
+  gap: 130PX;
+}
+.les3logo{
+  display: flex;
+  flex-direction: column;
+  gap: 20PX;
+}
+.lespetitslogo{
+  display: flex
+}
+.espacecontacteznous{
+  display: flex;
+  gap: 60PX;
+  flex-direction: column;
+}
+.espacelogocontactez{
+  word-spacing: 20PX;
+}
+#couleurdu{
+  color: rgb(239, 255, 18);
+  font-style: italic;
+}
+
+
+.DERNIERPARTIE{
+  background-color: black;
+  color: aliceblue;
+  padding: 1%;
+  display: flex;
+  flex-direction: column;
+   gap: 100PX;
+  
+}
+.dernierhaut{
+  display: flex;
+  justify-content: space-between;
+}
+#le2{
+  display: flex;
+  justify-content: space-between;
+  gap: 10PX;
+}
+#restezauùillieu{
+  justify-content: space-between;
+  text-align: center;
+  word-spacing: 80%;
+  
+  
+}
+.les4duservice{
+  border-radius: 5%;
+  color: aqua;
+  background-color: cadetblue;
+  gap: 80PX;
+}
+#relise1{
+  background-color: rgb(145, 250, 40);
+  padding: 10%;
+  align-items: center;
+  text-align: center;
+}
+#imaqse2{
+  margin-top: -100PX;
+  justify-content: space-between;
+}
+#lesmettresen_flex{
+  display: flex;
+  justify-content: center;
+  gap: 300PX;
+  align-items: center;
+}
+#ompetetparac{
+text-align: center;
+}
+#Section_compétence{
+  display: flex;flex-direction: column;
+  gap: 40PX;
+  padding: 10%;
+}
